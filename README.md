@@ -5,11 +5,11 @@ This project is developed as part of the **AI-EPBL (Engineering Project-Based Le
 # SafeSite AI – Real-Time Safety Monitoring for Construction Sites
 
 ## Team Members:
-VENKATESWARAN A
-DEV SAMSON S
-NISHANTH S
-BALAJI M
-THARUNKUMAR I
+1. VENKATESWARAN A
+2. DEV SAMSON S
+3. NISHANTH S
+4. BALAJI M
+5. THARUNKUMAR I
 
 ## Problem Statement:
 Construction sites present significant safety hazards, including falls, equipment-related injuries, and exposure to harmful substances. Traditional manual safety oversight is often inconsistent and reactive. There is a critical need for a proactive, real-time monitoring system to improve safety compliance and reduce accidents.
